@@ -7,7 +7,7 @@ This project is a full-stack web application built with the MERN stack (MongoDB,
 ### To run this application locally, follow these steps:
 
 - Clone this repository to your machine
-- git clone https://github.com/your-username/your-repo.git
+- git clone https://github.com/tonymai6/Mern-google-books
 - Install the necessary dependencies in both the root directory and the `client` directory
 - cd your-repo
 - npm install
