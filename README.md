@@ -44,3 +44,5 @@ This will start both the server and the client simultaneously. The server will r
 - Bootstrap
 
 ## Deployed Application 
+
+Visit the deployed application at [https://agile-beach-08478.herokuapp.com/](https://agile-beach-08478.herokuapp.com/)
